@@ -1,6 +1,4 @@
-<p align="center>
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vedant Modi!
-</p> 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vedant Modi</h1>
 
 ### About me: 😊
 
@@ -33,4 +31,4 @@
 ## &#x1f4c8; My GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedu003&show_icons=true&locale=en&layout=compact" alt="vedu003" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav720&show_icons=true&locale=en" alt="vaibhav720" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedu003&show_icons=true&locale=en" alt="vedu003" /></p>
