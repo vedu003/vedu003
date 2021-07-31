@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
  -->
  
- <p align="center">
+ <p>
   <b><i>📫 How to reach me: </i></b>
 
  
