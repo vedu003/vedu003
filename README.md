@@ -31,5 +31,11 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedu003&show_icons=true&locale=en&layout=compact" alt="vedu003" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedu003&show_icons=true&locale=en" alt="vedu003" /></p>
+<p align="center">
+
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=anujdarji2001&hide=stars&show_icons=true&line_height=48"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujdarji2001&count_private=true"> -->
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedu003&show_icons=true&locale=en" alt="vedu003" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedu003&show_icons=true&locale=en&layout=compact" alt="vedu003" />
+
+</p>
