@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning Django and React JS
 - 💬 Ask me about MERN Stack and Djano 
 - ⚡ Fun fact: I love Traveling and learning new thing
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sAMBpWLDKANE9_Y23Ge3iW12FhlQWnBv/view?usp=sharing]
-     (https://drive.google.com/file/d/1sAMBpWLDKANE9_Y23Ge3iW12FhlQWnBv/view?usp=sharing)
+- 📄 Know about me better [https://drive.google.com/file/d/1sAMBpWLDKANE9_Y23Ge3iW12FhlQWnBv/view?usp=sharing](https://drive.google.com/file/d/1sAMBpWLDKANE9_Y23Ge3iW12FhlQWnBv/view?usp=sharing)
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
