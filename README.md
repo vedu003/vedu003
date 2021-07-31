@@ -55,6 +55,7 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujdarji2001&count_private=true"> -->
  
   ![Vedant Modi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedu003&show_icons=true&theme=flag-india)
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedu003&show_icons=true&locale=en&layout=compact" alt="vedu003" />
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedu003&show_icons=true&locale=en&layout=compact" alt="vedu003" />
 
 </p>
