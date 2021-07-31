@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Vedant Modi!
 
-### About ME: 
+### About me: 😊
 
 - 🔭 I’m currently Studying in 5th Sem at LDCE (IT) 2019 - 2023
 - 🌱 I’m currently learning Django and React JS
