@@ -48,6 +48,8 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vedu003&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=vedu003&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+
 ## &#x1f4c8; My GitHub Stats
 
 <p align="center">
