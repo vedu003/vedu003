@@ -48,8 +48,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vedu003&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=vedu003&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-
 ## &#x1f4c8; My GitHub Stats
 
 <p align="center">
@@ -63,8 +61,14 @@
  <a href="https://github.com/vedu003/vedu003">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedu003&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>  &nbsp;
-<a href="https://github.com/vedu003/vedu003">
+ 
+ <a href="https://github.com/vedu003/vedu003">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedu003&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vedant's GitHub Stats" />
 </a>
-
+ 
 </p>
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vedu003&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=vedu003&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+
