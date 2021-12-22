@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vedant Modi</h1>
-
+![](https://visitor-badge.glitch.me/badge?page_id=vedu003.vedu003)
 <a href="https://ko-fi.com/vedu003"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
 
 ### About me: 😊
@@ -58,5 +58,6 @@
  
   ![Vedant Modi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedu003&show_icons=true&theme=flag-india)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedu003&show_icons=true&locale=en&layout=compact" alt="vedu003" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedu003&show_icons=true&theme=gotham" alt="vedu003" />
 
 </p>
