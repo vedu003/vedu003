@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vedant Modi</h1>
-[![Visits Badge](https://badges.pufler.dev/visits/vedu003/vedu003)](https://badges.pufler.dev/visits/vedu003/vedu003)
-[![Visits Badge](https://badges.pufler.dev/visits/vedu003/vedu003/git-badges)](https://badges.pufler.dev)
 
-https://badges.pufler.dev/visits/{vedu003}/{vedu003}
+<img src="https://github.com/vedu003/vedu003/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/vedu003"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 ### About me: 😊
 
