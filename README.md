@@ -60,7 +60,7 @@
   
  <a href="https://github.com/vedu003/vedu003">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedu003&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>  
+</a>  &nbsp;
 <a href="https://github.com/vedu003/vedu003">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedu003&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vedant's GitHub Stats" />
 </a>
