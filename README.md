@@ -55,9 +55,14 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=anujdarji2001&hide=stars&show_icons=true&line_height=48"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujdarji2001&count_private=true"> -->
  
-  ![Vedant Modi's GitHub stats]
   <img src="https://github-readme-stats.vercel.app/api?username=vedu003&show_icons=true&theme=gotham" alt="vedu003" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedu003&show_icons=true&locale=en&layout=compact" alt="vedu003" />
   
+ <a href="https://github.com/vedu003/vedu003">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedu003&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/vedu003/vedu003">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedu003&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vedant's GitHub Stats" />
+</a>
 
 </p>
