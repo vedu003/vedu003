@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vedant Modi</h1>
+[![Visits Badge](https://badges.pufler.dev/visits/vedu003/vedu003)](https://badges.pufler.dev/visits/vedu003/vedu003)
 
 ### About me: 😊
 
