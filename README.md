@@ -3,7 +3,7 @@
 
 ### About me: 😊
 
-- 🔭 I’m currently Studying in 5th Sem at LDCE (IT) 2019 - 2023
+- 🔭 I’m currently Studying in 7th Sem at LDCE (IT) 2019 - 2023
 - 🥅 2021 Goals: More coding less talking
 - 🌱 I’m currently learning Django and React JS
 - 💬 Ask me about MERN Stack and Djano 
