@@ -70,7 +70,7 @@
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32" alt="Scikit-Learn" title="Scikit-Learn"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="32" alt="Matplotlib" title="Matplotlib"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/PrefectHQ/prefect/main/docs/img/prefect-logo-mark-gradient.png" width="32" alt="Prefect" title="Prefect"/></td>
+    <td align="center"><img src="https://cdn.sanity.io/images/3ugk85nk/production/41971cfecfea5f79ff334164f06ecb34d1038dd4-250x250.png" width="32" alt="Prefect" title="Prefect"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="32" alt="Neo4j" title="Neo4j"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS" title="AWS"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" alt="Git" title="Git"/></td>
